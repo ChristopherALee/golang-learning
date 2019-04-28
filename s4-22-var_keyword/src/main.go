@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// var declaration operator used within global scope
+// var declaration operator used within package scope
 var y = 2
 
 // DECLARE there is a variable with the identifier 'z' is of type int
