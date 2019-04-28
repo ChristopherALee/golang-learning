@@ -12,6 +12,11 @@
 
 ### Must-Knows
 
+- Golang is a **STATIC** programming language
+  - a VARIABLE is DECLARED to hold a VALUE of a certain TYPE
+
+---
+
 All workspaces must have the following directories:
 
 ```
