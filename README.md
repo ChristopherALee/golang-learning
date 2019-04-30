@@ -5,8 +5,9 @@
 1. DEV Environment Setup
 2. Workspaces
 3. Various course-work
-4. Practice problems
-5. Practice projects
+4. Core concepts
+5. Practice problems
+6. Practice projects
 
 ## Glossary / References
 
